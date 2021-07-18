@@ -20,7 +20,7 @@
       </tr>
       <tr  align="center" bgcolor="white">
         <td>1</td>
-        <td align="left" >time1</td>
+        <td>time1</td>
         <td>money1</td>
         <td>statistics1</td>
       </tr>
