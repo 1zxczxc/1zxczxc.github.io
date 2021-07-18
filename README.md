@@ -1,3 +1,4 @@
+
 <html>
 <title>zxc1
 </title>
@@ -10,27 +11,24 @@
 </head>
 <body>
 <table border="0px" cellspacing="1px" width="200px" cellpadding="0px" align="center" bgcolor="red">
-    <caption align="top">学生基本信息</caption>
+    <caption align="top">管理中心</caption>
        <tr  bgcolor="white">
-        <th>姓名</th>
-        <th>年龄</th>
-        <th>性别</th>
-        <th>兴趣</th>
-        <th>爱好</th>     
+        <th>序号</th>
+        <th>在线时间</th>
+        <th>收益</th>
+        <th>收益统计时间</th>
       </tr>
       <tr  align="center" bgcolor="white">
-        <td>骆腾飞</td>
-        <td align="left" >18</td>
-        <td>男</td>
-        <td>美女</td>
-        <td>画画</td>     
+        <td>1</td>
+        <td align="left" >time1</td>
+        <td>money1</td>
+        <td>statistics1</td>
       </tr>
       <tr  align="center"  bgcolor="white">
-        <td>李高璐</td>
-        <td>19</td>
-        <td>男</td>
-        <td>玩电脑</td>
-        <td>篮球</td>     
+        <td>2</td>
+        <td>time2</td>
+        <td>money2</td>
+        <td>statistics2</td>  
       </tr>
     </table>
 </body>
